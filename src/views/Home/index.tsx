@@ -86,7 +86,7 @@ const Home: React.FC = () => {
           {t('BASH PROTOCOL')}
         </Heading>
         
-        <Text>{t('The #1 AMM and yield farm on Binance Smart Chain.\nBash Protocol  helps you make the most out of your crypto in many ways : \n Trade, Earn, Win and Launch')}</Text>
+        <Text>{t('The #1 AMM and yield farm on Binance Smart Chain.\nBash Protocol has own router to helps you make the most out of your crypto in many ways : \n Trade, Earn, Win and Launch')}</Text>
       </Hero>
       <div>
         <Cards>
